@@ -1,7 +1,7 @@
 {
-  "main.css": "/portfolio-website/static/css/main.fb4f4fc3.chunk.css",
-  "main.js": "/portfolio-website/static/js/main.18549050.chunk.js",
-  "main.js.map": "/portfolio-website/static/js/main.18549050.chunk.js.map",
+  "main.css": "/portfolio-website/static/css/main.d185e18f.chunk.css",
+  "main.js": "/portfolio-website/static/js/main.f3dc148f.chunk.js",
+  "main.js.map": "/portfolio-website/static/js/main.f3dc148f.chunk.js.map",
   "static/js/1.0b2f94de.chunk.js": "/portfolio-website/static/js/1.0b2f94de.chunk.js",
   "static/js/1.0b2f94de.chunk.js.map": "/portfolio-website/static/js/1.0b2f94de.chunk.js.map",
   "runtime~main.js": "/portfolio-website/static/js/runtime~main.2b256896.js",
@@ -13,8 +13,8 @@
   "static/media/todoapp.jpeg": "/portfolio-website/static/media/todoapp.471a5e0a.jpeg",
   "static/media/fashionweb.jpeg": "/portfolio-website/static/media/fashionweb.ec9074c4.jpeg",
   "static/media/agecal.jpeg": "/portfolio-website/static/media/agecal.4c19853e.jpeg",
-  "static/css/main.fb4f4fc3.chunk.css.map": "/portfolio-website/static/css/main.fb4f4fc3.chunk.css.map",
+  "static/css/main.d185e18f.chunk.css.map": "/portfolio-website/static/css/main.d185e18f.chunk.css.map",
   "index.html": "/portfolio-website/index.html",
-  "precache-manifest.ff235ede0bc54cc59c7e7bd207204b51.js": "/portfolio-website/precache-manifest.ff235ede0bc54cc59c7e7bd207204b51.js",
+  "precache-manifest.320ef288a9cddd9df71223938ccb3a25.js": "/portfolio-website/precache-manifest.320ef288a9cddd9df71223938ccb3a25.js",
   "service-worker.js": "/portfolio-website/service-worker.js"
 }
